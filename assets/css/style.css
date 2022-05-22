@@ -25,6 +25,10 @@
 	padding-top: 90px !important;
 }
 
+#hero-section .social-media {
+	width: 10rem;
+}
+
 .card {
 	width: 12rem;
 }

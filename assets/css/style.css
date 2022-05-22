@@ -10,7 +10,7 @@
 		width: 300px;
 	}
 
-	section {
+	section:not(section#skill) {
 		min-height: 100vh;
 		height: 100vh;
 	}
